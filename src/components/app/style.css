@@ -1,0 +1,15 @@
+.task_done {
+    text-decoration: line-through;
+}
+.fa-check {
+    color:green;
+}
+.fa-trash-alt {
+    color:darkblue;
+}
+ul > li > button {
+    width:78px;
+}
+ul {
+    list-style-type: none;
+}
